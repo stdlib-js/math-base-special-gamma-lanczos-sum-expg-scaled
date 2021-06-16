@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-gamma-lanczos-sum-expg-scaled",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Calculate a scaled Lanczos sum for the approximation of the gamma function.",
   "license": "Apache-2.0 AND BSL-1.0",
   "author": {
