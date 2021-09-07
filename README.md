@@ -122,6 +122,23 @@ for ( i = 0; i < x.length; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/gamma`][@stdlib/math/base/special/gamma]: gamma function.
+-   [`@stdlib/math/base/special/gamma-lanczos-sum`][@stdlib/math/base/special/gamma-lanczos-sum]: calculate the Lanczos sum for the approximation of the gamma function.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -138,6 +155,11 @@ For more information on the project, filing bug reports and feature requests, an
 [![Chat][chat-image]][chat-url]
 
 ---
+
+## License
+
+See [LICENSE][stdlib-license].
+
 
 ## Copyright
 
@@ -170,11 +192,21 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled/main/LICENSE
+
 [@stdlib/constants/float64/gamma-lanczos-g]: https://github.com/stdlib-js/constants-float64-gamma-lanczos-g
 
 [gamma-function]: https://en.wikipedia.org/wiki/Gamma_function
 
 [lanczos-approximation]: https://en.wikipedia.org/wiki/Lanczos_approximation
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/gamma]: https://github.com/stdlib-js/math-base-special-gamma
+
+[@stdlib/math/base/special/gamma-lanczos-sum]: https://github.com/stdlib-js/math-base-special-gamma-lanczos-sum
+
+<!-- </related-links> -->
 
 </section>
 
