@@ -1,0 +1,38 @@
+{
+  "name": "@stdlib/math-base-special-gamma-lanczos-sum-expg-scaled",
+  "version": "0.0.0",
+  "description": "Calculate a scaled Lanczos sum for the approximation of the gamma function.",
+  "license": "Apache-2.0 AND BSL-1.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "special function",
+    "special",
+    "function",
+    "gamma",
+    "lanczos",
+    "scaled",
+    "approx",
+    "approximation",
+    "polynomial",
+    "rational",
+    "factorial",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
