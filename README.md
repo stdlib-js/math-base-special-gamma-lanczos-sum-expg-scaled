@@ -78,6 +78,11 @@ L_g(n) \cdot \exp(-g)
 ## Usage
 
 ```javascript
+import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled/tags). For example,
+
+```javascript
 import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@v0.2.0-deno/mod.js';
 ```
 
@@ -117,7 +122,7 @@ v = gammaLanczosSumExpGScaled( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@v0.2.0-deno/mod.js';
+import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@deno/mod.js';
 
 var x = linspace( -10.0, 10.0, 100 );
 
