@@ -78,7 +78,7 @@ L_g(n) \cdot \exp(-g)
 ## Usage
 
 ```javascript
-import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@deno/mod.js';
+import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@v0.2.1-deno/mod.js';
 ```
 
 #### gammaLanczosSumExpGScaled( x )
@@ -117,7 +117,7 @@ v = gammaLanczosSumExpGScaled( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@deno/mod.js';
+import gammaLanczosSumExpGScaled from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma-lanczos-sum-expg-scaled@v0.2.1-deno/mod.js';
 
 var x = linspace( -10.0, 10.0, 100 );
 
