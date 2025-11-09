@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-02)
+## Unreleased (2025-11-09)
 
 <section class="reverts">
 
@@ -22,12 +22,13 @@
 
 <details>
 
+-   [`8c5cd3d`](https://github.com/stdlib-js/stdlib/commit/8c5cd3dc371efc75d4af5fef1d1b179b491f8375) - **chore:** add structured package data for `math/base/special/gamma-lanczos-sum-expg-scaled` [(#8458)](https://github.com/stdlib-js/stdlib/pull/8458) _(by Manvith M, Athan Reines)_
 -   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
 -   [`52e5b8b`](https://github.com/stdlib-js/stdlib/commit/52e5b8b77789e7056e1cd2d44107a7cc0e893ee9) - **test:** add tests to achieve full coverage in `gamma-lanczos-sum`, `gamma-lanczos-sum-expg-scaled`, and `gamma-lanczos-sum-expg-scaledf` _(by Philipp Burckhardt)_
--   [`cae9a13`](https://github.com/stdlib-js/stdlib/commit/cae9a136511539fae4e92823d912e27dfbedfe6d) - **docs:** replace manual `for` loop in examples [(#6635)](https://github.com/stdlib-js/stdlib/pull/6635) _(by Harsh)_
+-   [`cae9a13`](https://github.com/stdlib-js/stdlib/commit/cae9a136511539fae4e92823d912e27dfbedfe6d) - **docs:** replace manual `for` loop in examples [(#6635)](https://github.com/stdlib-js/stdlib/pull/6635) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`83ae24b`](https://github.com/stdlib-js/stdlib/commit/83ae24b63045e64818375fa4765cfd3c1eed1b97) - **bench:** update random value generation [(#6331)](https://github.com/stdlib-js/stdlib/pull/6331) _(by Harsh)_
+-   [`83ae24b`](https://github.com/stdlib-js/stdlib/commit/83ae24b63045e64818375fa4765cfd3c1eed1b97) - **bench:** update random value generation [(#6331)](https://github.com/stdlib-js/stdlib/pull/6331) _(by Harsh Yadav)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -41,11 +42,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
